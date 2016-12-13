@@ -1,0 +1,22 @@
+{
+  "name": "webpack_bank_refactored",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.13.4",
+    "mongodb": "^2.2.15",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
